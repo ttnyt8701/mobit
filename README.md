@@ -2,7 +2,7 @@
 
 morning + habit = mobit
 
-stacks
+# stacks
 - Go
 - Next.js@13
 - emotion
@@ -10,3 +10,7 @@ stacks
 - Docker
 - Nginx
 - github actions
+
+
+# idea
+Create a learning schedule with generative AI based on your learning history and posts
