@@ -5,11 +5,11 @@ morning + habit = mobit
 # stacks
 - Go
 - Next.js@13
-- emotion
+- Emotion
 - MySql
 - Docker
 - Nginx
-- github actions
+- Github Actions
 
 
 # idea
